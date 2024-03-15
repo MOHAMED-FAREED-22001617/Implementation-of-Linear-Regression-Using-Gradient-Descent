@@ -55,10 +55,22 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/73206d81-7af9-4571-b1a9-12a52913673d)
-![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/aba34321-4a3d-4171-ac7e-7b6e28fa330b)
+### data.head():
+![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/e5a5d683-a5d7-4d7b-b282-97c25e78af16)
+### X values: 
+![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/b0b70430-402f-47dc-a8e1-a3523053da05)
+### Y values:
+![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/be063aa6-513b-4e89-a09d-2f74355209d9)
+### X scaled:
+![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/53e60ded-a0aa-4423-87a1-13e0fa457ebb)
 
 
+### Y scaled:
+![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/2bf4f9a0-a01c-4821-9bca-e8efafd683a0)
+
+
+### Predicted Value:
+![image](https://github.com/MOHAMED-FAREED-22001617/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121412904/ddfaf6a3-f3b0-444e-8854-6fdc97da7480)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
